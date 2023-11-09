@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.out-box{
+    height: 320px;
+    width: 199px;
+    border-radius: 9px;
+    background-color: #fff;
+    margin-left: 42vw;
+    margin-top: 25vh;
+}
+
+.picture-div :only-child{
+    height: 170px;
+    width: 170px;
+    border-radius: 5px;
+    margin-left: 1.15vw;
+    margin-top: 2vh;
+}
+
+.first{
+    font-weight:  700;
+    text-align: center;
+    margin-top: 2vh;
+}
+
+.second{
+font-size: x-small; 
+   font-weight: 300;
+    color:hsl(220, 15%, 55%);
+    text-align: center;
+    margin-top: 2vh;
+}
